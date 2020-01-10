@@ -2,7 +2,7 @@
 //  bouninngenTests.swift
 //  bouninngenTests
 //
-//  Created by 杉村和栄 on 2018/12/16.
+//  Created by 杉村和栄 on
 //  Copyright © 2018年 杉村和栄. All rights reserved.
 //
 
